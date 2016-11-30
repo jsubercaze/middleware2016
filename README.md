@@ -45,6 +45,8 @@ Each group is made of 3 or 4 students.
 
 # Exam & Grades
 
-* EMSE students have an exam on 13/12/2016 that is shared with mobile development. It will be 45 mins for each course. Grades: 60% project and 40% exam.
+* EMSE students have an exam on 13/12/2016 that is shared with mobile development. It will be 45 mins for each course. Grades: 
 
 * Télécom and Master students: exam on  16/01/2017 from 10 to 12 in J020.
+
+* Distribution: 60% project and 40% exam (may be subject to changes)

@@ -40,7 +40,7 @@ Each group is made of 3 or 4 students.
 
 ## How to send the project
 
-* EMSE & Master: a zip of your source code per email. Include the name of the team members in the list (also in cc of the mail)
+* EMSE & Master: a zip of your source code per email to Subercaze & Gillani. Include the name of the team members in the list (also in cc of the mail)
 * Télécom: there is a "devoir" on Mootse, use this interface only. No email accepted.
 
 # Exam & Grades

@@ -13,7 +13,7 @@ A [virtualbox](https://www.virtualbox.org/wiki/Downloads) VM with a pre-configur
 
 * Group A (Télécom)
  1. 30/11/2016 (Subercaze): project
- 2. 07/12/2016 (Subercaze): project
+ 2. 07/12/2016 (Gravier): project
  3. 14/12/2016 (Subercaze): project
  3. 09/01/2017 (Subercaze): project
  
@@ -21,8 +21,8 @@ A [virtualbox](https://www.virtualbox.org/wiki/Downloads) VM with a pre-configur
   1. 07/12/2016 9h-12h (Gillani): TBD
 
 * Group C 
- 1. 06/12/16 13h30-16h30 (Subercaze): reboot of the first session. Project presentation and start.
- 2. 07/12/16 9h-12h (Gravier): project
+ 1. 07/12/16 9h-12h (Subercaze): reboot of the first session. Project presentation and start.
+ 2. 08/12/16 13h30-16h30 (Subercaze): project
  
 # Project
 

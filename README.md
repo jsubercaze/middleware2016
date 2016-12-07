@@ -34,9 +34,9 @@ Each group is made of 3 or 4 students.
 
 ## Deadlines
 
-* EMSE Students (first part only): 15/12/2016
+* EMSE Students (with exam on the 13/12 - first part only): 15/12/2016
 
-* Télécom and Master students (first & second part): 16/01/2017
+* Télécom, EMSE & Master students (with exam on the 16/01/17 - first & second part): 16/01/2017
 
 ## How to send the project
 
@@ -45,8 +45,15 @@ Each group is made of 3 or 4 students.
 
 # Exam & Grades
 
-* EMSE students have an exam on 13/12/2016 that is shared with mobile development. It will be 45 mins for each course. Grades: 
+* EMSE students have an exam on 13/12/2016 that is shared with mobile development. It will be 45 mins for each course. 
 
 * Télécom and Master students: exam on  16/01/2017 from 10 to 12 in J020.
 
 * Distribution: 60% project and 40% exam (may be subject to changes)
+
+# FAQ
+
+## I don't know what project deadline and exam date apply to me (Master & EMSE Students)
+
+Look at your timetable (schedule) from your institution. If your exam is scheduled the 13th of December, you have to do the first part of the project. If your exam is scheduled in January, then you have to do the complete project.
+

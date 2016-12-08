@@ -22,7 +22,7 @@ A [virtualbox](https://www.virtualbox.org/wiki/Downloads) VM with a pre-configur
 
 * Group C 
  1. 07/12/16 9h-12h (Subercaze): reboot of the first session. Project presentation and start.
- 2. 08/12/16 13h30-16h30 (Subercaze): project
+ 2. 08/12/16 13h30-16h30 (Subercaze, Room J205): project
  
 # Project
 

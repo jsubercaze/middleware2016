@@ -30,7 +30,7 @@ A [virtualbox](https://www.virtualbox.org/wiki/Downloads) VM with a pre-configur
 
 The instructions for the project are available [here](https://github.com/jsubercaze/middleware2016/blob/master/Middleware%20Project.pdf).
 
-Each group is made of 3 or 4 students.
+Each group is made of up to 4 students.
 
 ## Deadlines
 

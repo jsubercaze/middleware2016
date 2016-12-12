@@ -34,7 +34,7 @@ Each group is made of up to 4 students.
 
 ## Deadlines
 
-* EMSE Students (with exam on the 13/12 - first part only): 15/12/2016
+* EMSE Students (with exam on the 14/12 - first part only): 15/12/2016
 
 * Télécom, EMSE & Master students (with exam on the 16/01/17 - first & second part): 16/01/2017
 
@@ -45,7 +45,7 @@ Each group is made of up to 4 students.
 
 # Exam & Grades
 
-* EMSE students have an exam on 13/12/2016 that is shared with mobile development. It will be 45 mins for each course. 
+* EMSE students have an exam on 14/12/2016 that is shared with mobile development. It will be 45 mins for each course. 
 
 * Télécom and Master students: exam on  16/01/2017 from 10 to 12 in J020.
 
